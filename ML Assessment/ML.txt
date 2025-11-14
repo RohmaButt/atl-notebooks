@@ -1,0 +1,9 @@
+https://99be17a4-fc4f-4009-8c4d-a8248c844e54.us-east4-0.gcp.cloud.qdrant.io:6333
+api-key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIn0.X0V93TZ7OO7MDSfowDnpZPkkwoFiyG6OPb8JEO6UXx4
+OpenRouterAPI: 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
+
+ 
+
+ssh credentials:
+vast
+vast
